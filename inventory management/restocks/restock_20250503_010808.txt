@@ -1,0 +1,6 @@
+Supplier: Cosmetics Supplier
+Date: 2025-05-03 01:08:08.438668
+
+Product: Night Cream | Brand: Olay | Quantity: 10 | Cost per item: Rs. 300.00
+
+Total Restock Cost: Rs. 3000.00

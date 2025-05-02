@@ -1,0 +1,5 @@
+Vitamin C Serum, Garnier, 10, 100.0, France
+Skin Cleanser, Cetaphil, 15, 140.0, Switzerland
+Sunscreen, Aqualogica, 30, 260.0, India
+Softskin Lotion, Dove, 8, 90.0, USA
+Night Cream, Olay, 16, 300.0, UK

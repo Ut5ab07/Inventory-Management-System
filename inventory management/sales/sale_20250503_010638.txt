@@ -1,0 +1,6 @@
+Customer: Utsab
+Date: 2025-05-03 01:06:38.048915
+
+Product: Night Cream | Brand: Olay | Bought: 5 | Total with Free: 6
+
+Total Amount: Rs. 1500.00
