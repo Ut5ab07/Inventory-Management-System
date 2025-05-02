@@ -1,7 +1,7 @@
 # Inventory-Management-System
 This project is a simple store management system for a local vendor selling beauty and skincare products. The system allows the shop owner to maintain inventory, track sales, and restock items. It also features a "buy three, get one free" policy to boost sales.
 
-#Features:
+# Features:
 1. Display Products: View a list of all available products, including the product name, brand, stock quantity, selling price, and country of origin.
 
 2. Sell Products: Process customer purchases, apply the "buy three, get one free" offer, update stock levels, and generate an invoice for each transaction.
