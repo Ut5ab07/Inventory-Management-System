@@ -12,3 +12,12 @@ This project is a simple store management system for a local vendor selling beau
 
 5. Invoices: For both sales and restocks, invoices are automatically generated with details like product name, quantity, total amount, supplier/customer name, and transaction date. The invoices are saved in 
    separate directories (sales/ and restocks/).
+
+
+# Setup
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/WeCare-Store-Management.git
+
+   
