@@ -19,5 +19,23 @@ This project is a simple store management system for a local vendor selling beau
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/WeCare-Store-Management.git
+```
 
-   
+2. Ensure you have a file named inventory.txt in the same directory, containing the product details in the following format:
+```yaml
+Vitamin C Serum, Garnier, 200, 1000, France
+Skin Cleanser, Cetaphil, 100, 280, Switzerland
+Sunscreen, Aqualogica, 200, 700, India
+```
+The columns are:
+- Product Name
+- Brand Name
+- Stock Quantity
+- Cost Price
+- Country of Origin
+
+3. Run the script:
+```bash
+pyhton inventory_management.py
+```
+
